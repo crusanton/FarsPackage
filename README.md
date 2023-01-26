@@ -4,6 +4,9 @@
 # FarsPackage
 
 <!-- badges: start -->
+
+[![Travis build
+status](https://travis-ci.com/crusanton/FarsPackage.svg?branch=main)](https://travis-ci.com/crusanton/FarsPackage)
 <!-- badges: end -->
 
 The goal of FarsPackage is to import into a dataframe the US National
